@@ -9,9 +9,9 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
-# <img src="https://media.tenor.com/9GwjnjhCSZ0AAAAi/sportsmanias-technical-difficulties.gif" width="48" height="48"> **Data Description**
+# <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="48" height="48"> **Data Description**
 
-# <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="48" height="48">*Problems Faced*
+# <img src="https://media.tenor.com/9GwjnjhCSZ0AAAAi/sportsmanias-technical-difficulties.gif" width="48" height="48"> *Problems Faced*
 
 The first problem we encountered was with the new libraries that we needed to learn about to pull in data from LinkedIn. Selenium and BeautifulSoup were two libraries we did not know about before so, we had to learn it from scratch and research a lot online in order to use it in our project. Finally we need manage to scrape the data but the next problem waiting for us was the cleaning of the data. The raw data was really hard to understand and I had to work on it for hours to make it usable and clean.
   1. The first problem was fixed using BeautifulSoup and Selenium WebDriver, we managed to pull the data from LinkedIn using BeautifulSoup and automated the process using Selenium for things like changing the page number etc.
