@@ -35,12 +35,3 @@ Here we can clearly see which industries have the highest jobs avalability
 IT Servies and Oil have the highest available jobs in the market right now. There could be many possible reasons for this but we came to a few possible resons for this huge number of job count in these industries.
   1. Rapid growing industries - India's information technology (IT) sector is set to become a USD 227 billion industry in FY'22, registering a 15.5% growth which is the highest in over a decade. The global oil and gas market grew from $6,989.65 billion in 2022 to $7,330.80 billion in 2023 at a compound annual growth rate (CAGR) of 4.9%.
   2. Job availability - Hiring of skilled professionals increases 52% from pre-covid levels (financialexpress.com).
-
-
-
-
-  
-
-
-
-
