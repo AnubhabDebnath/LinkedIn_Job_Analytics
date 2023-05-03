@@ -7,3 +7,8 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 ![image](https://media.tenor.com/gyNDu8UeHA8AAAAd/looking-for-a-job-job.gif)
 
+
+
+# <img src="https://media.tenor.com/9GwjnjhCSZ0AAAAi/sportsmanias-technical-difficulties.gif" width="48" height="48"> *Problems Faced*
+
+
