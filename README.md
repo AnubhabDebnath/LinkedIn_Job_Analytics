@@ -25,10 +25,14 @@ There were a few steps involved bofore we got to the analysis part which are as 
   3. Cleaning - Altough cleaning was done in excel which didn't involve any coding but still it took a while to decide which data are relevant and which are not. Once done, I moved on to the deleting part where the irrelevant data were deleted. At last I used data cleaning tools from excel to make sense of the data and remove any noise values from it.
   4. Running Queries - We needed to find the solution to a few questions which I did using MySql.
   5. Making the Dashboard - After all of the above tasks were done, I derived a few insights from the data and with the help of pivot tables and then charts I was able to show the visualizations needed.
- 
- 
- 
-![linkedin](https://user-images.githubusercontent.com/110715196/236013685-d417d2a2-ab1e-4004-b634-d83d92b717bd.gif)
+
+
+# <img src="https://media.tenor.com/F7Y9A0SWAUcAAAAi/goal-circle.gif" width="48" height="48"> **Insights**
+
+![Screenshot 2023-05-04 001918](https://user-images.githubusercontent.com/110715196/236014757-99a9d96a-baea-4519-932c-b38db1bad806.png)
+
+
+
 
   
 
