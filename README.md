@@ -5,5 +5,5 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
- < img src="https://media.tenor.com/gyNDu8UeHA8AAAAd/looking-for-a-job-job.gif" width = "200" height = "150" >
+![image](https://media.tenor.com/gyNDu8UeHA8AAAAd/looking-for-a-job-job.gif)
 
