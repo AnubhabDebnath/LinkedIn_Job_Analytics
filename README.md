@@ -5,7 +5,7 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
-<img src="https://media.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif" width="48" height="48">
+<img src="https://media.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif" width="1000" height="1000">
 
   
 # <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48"> **Tools Used**
