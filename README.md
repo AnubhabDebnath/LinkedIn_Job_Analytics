@@ -8,7 +8,7 @@ This depository contains the analysis of all the jobs available at linkedin webs
 ![image](https://media.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif)
 
   
-# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48">**Tools Used**
+# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48"> **Tools Used**
 ![Screenshot 2023-05-13 205703](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics/assets/110715196/d2ba0355-fb9f-4665-b79e-a6f7dd1735c5)
 
 
@@ -46,3 +46,11 @@ Clearly Bangalore has the highest job openings followed by delhi.
 The first problem we encountered was with the new libraries that we needed to learn about to pull in data from LinkedIn. Selenium and BeautifulSoup were two    libraries we did not know about before so, we had to learn it from scratch and research a lot online in order to use it in our project. Finally we need manage to scrape the data but the next problem waiting for us was the cleaning of the data. The raw data was really hard to understand and I had to work on it for hours to make it usable and clean.
   1. The first problem was fixed using BeautifulSoup and Selenium WebDriver, we managed to pull the data from LinkedIn using BeautifulSoup and automated the process using Selenium for things like changing the page number etc.
   2. The second challenging problem was solved using excel, I had to use various tools as well as functions to clean the dataset thoroughly as it was a very essential part of our project, specially when the next step was to run queries in sql.
+
+
+
+
+# <imf src="https://media.tenor.com/RUKQWE0MJE4AAAAi/road-sign-roadtrip.gif" width="48" height="48"> **Conclusion**
+The scraping, cleaning, querying, and dashboard creation processes were successful in extracting, organizing, and presenting the data in a meaningful way. The resulting dashboard provided valuable insights into the data and allowed for easy analysis and interpretation.
+
+Overall, the project was a success in using Selenium web driver, Beautiful Soup, Excel, and SQL to scrape, clean, query, and analyze data from LinkedIn. The resulting dashboard provided a valuable tool for understanding and interpreting the data.
