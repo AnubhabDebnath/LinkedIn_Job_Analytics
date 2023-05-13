@@ -35,7 +35,7 @@ Financial Services and IT Services have the highest available jobs in the market
 
 ![image](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics/assets/110715196/39faacd8-59b0-4f77-87a5-9eaba4856428)
 
-In the above chart I took 5 different cities from the dataset and compared them on the basis of job count and the different levels they belong to
+In the above chart I took 5 different cities from the dataset and compared them on the basis of job count and the different levels they belong to.
 Clearly Bangalore has the highest job openings followed by delhi.
 
 
