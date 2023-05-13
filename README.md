@@ -59,5 +59,4 @@ Overall, the project was a success in using Selenium web driver, Beautiful Soup,
   
 
 # <imf src="https://media.tenor.com/-YcB0iBIq0cAAAAC/learn-learning.gif" width="48" height="48"> ****Learnings****
-
- 
+  
