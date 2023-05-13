@@ -8,7 +8,7 @@ This depository contains the analysis of all the jobs available at linkedin webs
 ![image](https://media.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif)
 
   
-# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48">**Tools Used for this Project**
+# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48">**Tools Used**
 ![Screenshot 2023-05-13 205703](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics/assets/110715196/d2ba0355-fb9f-4665-b79e-a6f7dd1735c5)
 
 
