@@ -5,7 +5,7 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
-![image](https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif width="100" height="100")
+![image]("https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif" width="100" height="100")
 
 
 
