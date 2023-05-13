@@ -34,6 +34,9 @@ IT Servies and Oil have the highest available jobs in the market right now. Ther
   1. Rapid growing industries - India's information technology (IT) sector is set to become a USD 227 billion industry in FY'22, registering a 15.5% growth which is the highest in over a decade. The global oil and gas market grew from $6,989.65 billion in 2022 to $7,330.80 billion in 2023 at a compound annual growth rate (CAGR) of 4.9%.
   2. Job availability - Hiring of skilled professionals increases 52% from pre-covid levels (financialexpress.com).
 
+![image](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics/assets/110715196/39faacd8-59b0-4f77-87a5-9eaba4856428)
+
+
 
 
 
