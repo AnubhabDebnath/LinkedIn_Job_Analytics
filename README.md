@@ -54,3 +54,10 @@ The first problem we encountered was with the new libraries that we needed to le
 The scraping, cleaning, querying, and dashboard creation processes were successful in extracting, organizing, and presenting the data in a meaningful way. The resulting dashboard provided valuable insights into the data and allowed for easy analysis and interpretation.
 
 Overall, the project was a success in using Selenium web driver, Beautiful Soup, Excel, and SQL to scrape, clean, query, and analyze data from LinkedIn. The resulting dashboard provided a valuable tool for understanding and interpreting the data.
+  
+
+  
+
+# <imf src="https://media.tenor.com/-YcB0iBIq0cAAAAC/learn-learning.gif" width="48" height="48"> ****Learnings****
+
+ 
