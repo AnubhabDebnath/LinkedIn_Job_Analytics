@@ -8,7 +8,10 @@ This depository contains the analysis of all the jobs available at linkedin webs
 ![image](https://media.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif)
 
   
-  
+![Screenshot 2023-05-13 205703](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics/assets/110715196/d2ba0355-fb9f-4665-b79e-a6f7dd1735c5)
+
+
+
 # <img src="https://media.tenor.com/S_MxiWkUAHMAAAAi/steps-baby-steps.gif" width="48" height="48"> **Steps Involved**
 
 There were a few steps involved bofore we got to the analysis part which are as follows:
