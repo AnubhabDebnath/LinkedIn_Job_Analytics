@@ -58,5 +58,9 @@ Overall, the project was a success in using Selenium web driver, Beautiful Soup,
 
   
 
-# <imf src="https://media.tenor.com/-YcB0iBIq0cAAAAC/learn-learning.gif" width="48" height="48"> ****Learnings****
+# <imf src="https://media.tenor.com/-YcB0iBIq0cAAAAC/learn-learning.gif" width="48" height="48"> **Learnings**
+After finishing this project, we came to a few conclusions but also though about how it could be made better if someone wants to do it in the future. We noted down a few pointer which could be remembered while re-doing this project.
+  1. We might want to use some alternatives to scrap the data from a website like Scrapy, Selenium, import.io, ParseHub, and Octoparse.
+  2. For the cleaning part we can try using Python which would take lesser time than doing it in Excel. 
+  3. The Dashboard can be made using PowerBI instead of Excel itself. We would not only have more options but also the visualizations would be much better looking in appearence.
   
