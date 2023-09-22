@@ -43,8 +43,8 @@ Clearly Bangalore has the highest job openings followed by delhi.
 
 # <img src="https://media.tenor.com/ts5y4CC3OlYAAAAC/life-is-so-hard-long-day.gif" width="48" height="48"> **Problems Faced**
 
-The first problem we encountered was with the new libraries that we needed to learn about to pull in data from LinkedIn. Selenium and BeautifulSoup were two    libraries we did not know about before so, we had to learn it from scratch and research a lot online in order to use it in our project. Finally we need manage to scrape the data but the next problem waiting for us was the cleaning of the data. The raw data was really hard to understand and I had to work on it for hours to make it usable and clean.
-  1. The first problem was fixed using BeautifulSoup and Selenium WebDriver, we managed to pull the data from LinkedIn using BeautifulSoup and automated the process using Selenium for things like changing the page number etc.
+The first problem I encountered was with the new libraries that I needed to learn about to pull in data from LinkedIn. I used Selenium and BeautifulSoup to scrape the data, but I had to learn them from scratch and research a lot online in order to use them in my project.The next problem waiting for me was the cleaning of the data. The raw data was really hard to understand and I had to work on it for hours to make it usable and clean.
+  1. The first problem was fixed using BeautifulSoup and Selenium WebDriver, I managed to pull the data from LinkedIn using BeautifulSoup and automated the process using Selenium for things like changing the page number etc.
   2. The second challenging problem was solved using excel, I had to use various tools as well as functions to clean the dataset thoroughly as it was a very essential part of our project, specially when the next step was to run queries in sql.
 
 
