@@ -13,7 +13,7 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
-# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48"> **Problems Aimed to Solve**
+# <img src="https://media.tenor.com/WMS0HHtKYD8AAAAi/handwerk-stephaniebergerschmuck.gif" width="48" height="48"> **Problems Aimed to be Solved**
 
 
 
