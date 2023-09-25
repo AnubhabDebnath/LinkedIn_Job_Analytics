@@ -13,6 +13,14 @@ This depository contains the analysis of all the jobs available at linkedin webs
 
 
 
+**Problems aimed to solve**
+
+
+
+Our initial challenge involved extracting data from professional networking platforms such as LinkedIn. These platforms typically have stringent measures in place to prevent easy data scraping, thus precluding the use of straightforward software solutions for this task. Our second task was to ensure the proper processing and thorough cleaning of the raw data. This step was crucial to minimize the presence of outliers and enhance the overall quality of our dataset.
+
+
+
 # <img src="https://media.tenor.com/S_MxiWkUAHMAAAAi/steps-baby-steps.gif" width="48" height="48"> **Steps Involved**
 
 There were a few steps involved bofore we got to the analysis part which are as follows:
